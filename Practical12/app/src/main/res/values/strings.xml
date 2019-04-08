@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practical12</string>
+    <string name="tap_on_mic_to_speak_label">Tap on mic to speak</string>
+    <string name="hey_there_msg">Hey there!</string>
+    <string name="speech_prompt">Say something</string>
+    <string name="speech_not_supported">Your device is not supported</string>
+</resources>
