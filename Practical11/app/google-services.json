@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "723583867593",
+    "firebase_url": "https://signindemo-b4e52.firebaseio.com",
+    "project_id": "signindemo-b4e52",
+    "storage_bucket": "signindemo-b4e52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723583867593:android:fbc50e23229c9d14",
+        "android_client_info": {
+          "package_name": "com.android.example.practical11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723583867593-i7ttt517ohefaf24t9hf0vpsejuhhjq3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.example.practical11",
+            "certificate_hash": "0dca42257b143c5e19ea962cdb2f5b210e8806fd"
+          }
+        },
+        {
+          "client_id": "723583867593-179h4h45uhbj1b5ob0tc4pqi7cql9gt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOCUdoEBLbaxnnaMoFIO-RwcsNLQnjdMg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723583867593-179h4h45uhbj1b5ob0tc4pqi7cql9gt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Practical11</string>
+    <string name="welcome_to_google_sign_in_demo_text">Welcome to Google Sign In Demo</string>
+</resources>
