@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/red_color"
+        android:title="@string/change_to_red_color_label" />
+    <item
+        android:id="@+id/green_color"
+        android:title="@string/change_to_green_color_label" />
+    <item
+        android:id="@+id/blue_color"
+        android:title="@string/change_to_blue_color_label" />
+    <item
+        android:id="@+id/original_color"
+        android:title="@string/change_to_original_title" />
+</menu>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practical7</string>
+    <string name="change_to_blue_color_label">Change to blue color</string>
+    <string name="change_to_green_color_label">Change to green color</string>
+    <string name="change_to_red_color_label">Change to red color</string>
+    <string name="change_to_original_title">Change to original</string>
+</resources>
