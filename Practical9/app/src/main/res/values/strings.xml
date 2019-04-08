@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Practical9</string>
+    <string name="web_address_hint">Web address</string>
+</resources>
