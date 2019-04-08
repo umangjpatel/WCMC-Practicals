@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Practical6</string>
+    <string name="toggle_flashlight_hint">Toggle flashlight</string>
+</resources>
