@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practical 4</string>
+    <string name="celsius_hint">Celsius</string>
+    <string name="fahrenheit_hint">Fahrenheit</string>
+</resources>
