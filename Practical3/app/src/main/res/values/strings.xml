@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practical 3</string>
+    <string name="time_in_seconds_hint">Time (in seconds)</string>
+    <string name="show_toast_text">Show toast</string>
+</resources>
