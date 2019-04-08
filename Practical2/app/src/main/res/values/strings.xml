@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Practical 2</string>
+    <string name="first_number_hint">First Number</string>
+    <string name="second_number_hint">Second Number</string>
+    <string name="calculate_hint">Calculate</string>
+</resources>
